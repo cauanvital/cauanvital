@@ -1,6 +1,6 @@
 # About Me
 
-''' Fifth period Computer Science student passionate about technology. Currently working as a Salesforce developer and administrator at the company Link Monitoramento. Some day I'll be a data scientist. I like reading 📖, drawing ✏️, cooking 🍲, playing basketball 🏀 and making music 🎵
+``` Fifth period Computer Science student passionate about technology. Currently working as a Salesforce developer and administrator at the company Link Monitoramento. Some day I'll be a data scientist. I like reading 📖, drawing ✏️, cooking 🍲, playing basketball 🏀 and making music 🎵 ```
 
 ### Contact Me
 
