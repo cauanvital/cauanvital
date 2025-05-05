@@ -34,6 +34,6 @@ I enjoy reading 📖, drawing ✏️, cooking 🍲, playing basketball 🏀 and 
 
 ### My cat
 
-His name is Ippo :D
-
 ![Ippo](https://github.com/cauanvital/cauanvital/blob/main/ippo.jpg)
+
+**His name is Ippo :D
