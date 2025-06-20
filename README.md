@@ -1,9 +1,7 @@
 # About Me
 
 ```
-Fifth period Computer Science student passionate about technology.
-Currently working as a Salesforce developer and administrator at
-the company Link Monitoramento. Some day I'll be a data scientist.
+I'm a software engineer who works with Go and Java in my day to day.
 I enjoy reading 📖, drawing ✏️, cooking 🍲, playing basketball 🏀 and making music 🎵
 ```
 
