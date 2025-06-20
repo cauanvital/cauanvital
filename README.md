@@ -13,7 +13,7 @@ I enjoy reading 📖, drawing ✏️, cooking 🍲, playing basketball 🏀 and 
 
 ### Skills
 
-![Go](https://img.shields.io/badge/Go-CCFF33?style=for-the-badge&logo=html5&logoColor=gray)
+![Go](https://img.shields.io/badge/Golang-CCFF33?style=for-the-badge&logo=html5&logoColor=gray)
 ![Java](https://img.shields.io/badge/java-AB64FF?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-CCFF33?style=for-the-badge&logo=javascript&logoColor=gray)
 ![C++](https://img.shields.io/badge/C%2B%2B-AB64FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
